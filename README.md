@@ -1,20 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=150&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Pedro+Henrique+Rezende+Bezerra;I'm+19+years+old;I+am+from+João+Pessoa,+PB;I+am+an+IT+Internet+Technician;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrobezerra14&show_icons=true&count_private=true&hide_border=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000" alt="Pedro Henrique Rezende Bezerra github stats" /> 
-</div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrobezerra14&bg_color=000&color=fff&line=fff&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrobezerra14&theme=monokai&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/pedruhzx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=My+name+is+Pedro+Henrique+Rezende+Bezerra;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -34,11 +20,6 @@
 
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pedrobezerra14}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=180&section=footer"/>
 
